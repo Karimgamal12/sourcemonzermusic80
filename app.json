@@ -32,7 +32,7 @@
         "required": true
       },
       "SESSION": {
-        "description": "ضـع جلسة البايروجرام احصل عليها من هنا @SESION_REFZ_BOT",
+        "description": "ضـع جلسة البايروجرام احصل عليها من هنا @Av_SE_Bot",
         "value": "",
         "required": true
       },
